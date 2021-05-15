@@ -10,7 +10,7 @@ Meu nome e William Galeano e eu sou um Engenheiro de Redes de computadores. Sou 
 
  - Network <3
  - 💙 In love with Routers and Switchs
- - 🌱 
+ - 🌱 Estudando GitHub
 
 
 ## &#x1f4c8; GitHub Stats
